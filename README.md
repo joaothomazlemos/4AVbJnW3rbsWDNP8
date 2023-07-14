@@ -31,14 +31,14 @@ Attributes X1 to X6 indicate the responses for each question and have values fro
 We only want to focus on the dissatisfied clients, so we can identify the problems here. So, we will aim for the metric that cares about the negatives outcomes 0.
 For this, we will focus on the specificity.
 
-![image.png](attachment:image.png)
+
 
 The best score was achieved with data 'base_v6_X4.csv' with:
 * Accuracy score: 72.73% 
 * AUC ROC score: 71.67% 
 * Specificity score: 60.00% 
 
-![Alt text](image.png)
+
 
 ## Results with the best model:
 Models tested:
