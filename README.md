@@ -35,7 +35,8 @@ For this, we will focus on the specificity.
 
 The best score was achieved with data 'base_v6_X4.csv' with:
 * Accuracy score: 72.73% 
-* AUC ROC score: 71.67% 
+* AUC ROC score: 71.67%
+* F1 score: 76.13%  
 * Specificity score: 60.00% 
 
 
@@ -53,7 +54,8 @@ The dataset is: base_v6_X4_X6.csv ( without features 4 and 6)
 Model: SVC
 The shape of the dataset is: (109, 5)
 * Accuracy score: 72.73% 
-* AUC ROC score: 73.33% 
+* AUC ROC score: 73.33%
+* F1 score: 72.73%  
 * Specificity score: 80.00% 
 
 ## Conclusion
