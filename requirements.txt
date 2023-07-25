@@ -5,3 +5,4 @@ seaborn
 sklearn
 pickle
 xgboost
+statsmodels
